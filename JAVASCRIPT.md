@@ -74,12 +74,32 @@ https://reactjs.org/docs/faq-internals.html
 https://medium.com/@happymishra66/virtual-dom-in-reactjs-43a3fdb1d130
 
 
+
 https://www.google.com/search?q=angula+compiler&rlz=1C5CHFA_enIN987IN987&oq=angula+compiler+&aqs=chrome..69i57j0i10i22i30j69i65.4859j1j7&sourceid=chrome&ie=UTF-8
+https://angular.io/guide/what-is-angular
 https://www.youtube.com/watch?v=S0o-4yc2n-8&t=5s
+https://www.youtube.com/watch?v=2OHbjep_WjQ&t=35s
 https://www.google.com/search?q=AppComponent.ngComponentDef&rlz=1C5CHFA_enIN987IN987&oq=AppComponent.ngComponentDef&aqs=chrome..69i57.4729j0j4&sourceid=chrome&ie=UTF-8
 https://medium.com/lacolaco-blog/quick-start-for-enabling-angular-v6-ivy-compiler-161ef492e243
 https://www.angulararchitects.io/en/aktuelles/architecture-with-ivy-a-possible-future-without-angular-modules/
 https://indepth.dev/posts/1271/angular-ivy-change-detection-execution-are-you-prepared
+https://www.google.com/search?q=how+angular+update+dom&tbm=isch&chips=q:how+angular+update+dom,online_chips:change+detection:WIFEUOSl6Bo%3D&rlz=1C5CHFA_enIN987IN987&hl=en&sa=X&ved=2ahUKEwjS3_DQ_eP1AhXlALcAHZkGBv4Q4lYoAnoECAEQHw&biw=1440&bih=686#imgrc=x0jIBcZb_Ns0zM
+https://medium.com/ngconf/simplified-angular-change-detection-e74809ff804d
+https://mokkapps.de/blog/the-last-guide-for-angular-change-detection-you-will-ever-need/
+https://teropa.info/blog/2015/03/02/change-and-its-detection-in-javascript-frameworks.html
+https://github.com/angular/angular/blob/885f1af509eb7d9ee049349a2fe5565282fbfefb/packages/core/src/util/comparison.ts#L13
+https://github.com/Mokkapps/angular-change-detection-demo/blob/master/src/app/simple-demo/simple-demo.component.ts
+https://indepth.dev/posts/1058/a-gentle-introduction-into-change-detection-in-angular
+https://www.telerik.com/blogs/simplifying-angular-change-detection
+https://medium.com/@sardanalokesh/understanding-dom-manipulation-in-angular-2b0016a4ee5d
+https://blog.angular-university.io/how-does-angular-2-change-detection-really-work/
+https://github.com/angular/angular/blob/master/packages/zone.js/example/basic.html
+https://en.wikipedia.org/wiki/Thread-local_storage
+https://www.google.com/search?q=javascript+popular+libraries&rlz=1C5CHFA_enIN987IN987&sxsrf=APq-WBuR1tpwFfuBoiQdUZTXvCb0Y0G2Yg%3A1644152665592&ei=Wcf_YavbI7LXz7sPnOmt0AQ&oq=javascript+popular+&gs_lcp=Cgdnd3Mtd2l6EAEYATIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB46BwgjELADECc6BwgAEEcQsAM6BwgAELADEEM6BAgjECc6CggAEIAEEIcCEBRKBAhBGABKBAhGGABQpgVY6Q9gsh5oAXACeACAAYQCiAH5BpIBAzItNJgBAKABAcgBCsABAQ&sclient=gws-wiz
+https://www.google.com/search?q=writing+javascript+library&rlz=1C5CHFA_enIN987IN987&tbm=isch&sxsrf=APq-WBvpoSlbXDqU6I2TgLPmAgr9a_lcBQ:1644158389229&source=lnms&sa=X&ved=2ahUKEwjX1_mlp-v1AhUC4XMBHQbGBSQQ_AUoAnoECAEQBA&biw=1440&bih=686&dpr=1
+https://jkasaudhan.github.io/2017-02-10-pattern-for-writing-simple-js-library/
+https://egghead.io/lessons/javascript-introduction-to-how-to-write-an-open-source-javascript-library
+https://www.google.com/search?rlz=1C5CHFA_enIN987IN987&hl=en&tbm=vid&sxsrf=APq-WBs5-Lf8czZ-iKNxzQWCxr8JOmBodw:1644228824220&q=chrome+devtools+performance&spell=1&sa=X&ved=2ahUKEwj7q_zXre31AhUg3jgGHX4IB2oQBSgAegQIARBJ&biw=1440&bih=686&dpr=1
 
 
 
