@@ -1,0 +1,16 @@
+https://www.youtube.com/watch?v=Mo4vesaut8g&t=1697s
+https://www.quora.com/What-if-Load-Balancer-goes-down
+https://www.google.com/search?q=java+coding+design+questions&rlz=1C5CHFA_enIN987IN987&sxsrf=APq-WBvuV9G2c6gmMHSjhbNzauIUWSPZJA%3A1645856817338&ei=McgZYoubFKW_3LUPwsq7yAo&ved=0ahUKEwjL98q33pz2AhWlH7cAHULlDqkQ4dUDCA4&uact=5&oq=java+coding+design+questions&gs_lcp=Cgdnd3Mtd2l6EAMyCAgAEAgQDRAeMggIABAIEA0QHjoHCAAQRxCwAzoFCAAQgAQ6BggAEBYQHjoICCEQFhAdEB5KBAhBGABKBAhGGABQthNY3FRgn1ZoAXABeACAAcgyiAHGTJIBDzItMS4zLjAuMi4xLjktMZgBAKABAcgBCMABAQ&sclient=gws-wiz
+https://medium.com/javarevisited/25-software-design-interview-questions-to-crack-any-programming-and-technical-interviews-4b8237942db0
+https://www.geeksforgeeks.org/how-to-crack-system-design-round-in-interviews/?ref=lbp
+https://www.geeksforgeeks.org/sapient-coding-exercise-for-designing-smart-card-system-for-delhi-metro/
+https://www.youtube.com/watch?v=oBt53YbR9Kk&t=32s
+https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321
+https://github.com/search?o=desc&q=java&s=stars&type=Repositories
+https://github.com/CyC2018/CS-Notes/blob/master/notes/pics/0dae7e93-cfd1-4bd3-97e8-325b032b716f.gif
+https://github.com/trekhleb/javascript-algorithms/blob/master/src/algorithms/math/bits/getBit.js
+https://github.com/Snailclimb/JavaGuide/blob/main/docs/java/collection/arraylist-source-code.md
+https://github.com/iluwatar/java-design-patterns/tree/master/caching
+https://github.com/kdn251/interviews/tree/master/cracking-the-coding-interview
+https://www.geeksforgeeks.org/data-types-in-java/?ref=lbp
+https://www.google.com/search?q=signed+and+unsigned+integer&rlz=1C5CHFA_enIN987IN987&sxsrf=APq-WBvGMDsvqm8zsrWgghw0LtMs8WUhHQ:1645868338693&source=lnms&tbm=isch&sa=X&ved=2ahUKEwigsLKtiZ32AhXlSmwGHRkaBgwQ_AUoAXoECAEQAw&biw=1440&bih=686&dpr=1#imgrc=W1K41xG0q-ZY1M
