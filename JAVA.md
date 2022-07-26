@@ -1,6 +1,22 @@
  # Java Links 
 
 
+https://github.com/mjiderhamn/classloader-leak-prevention
+https://www.baeldung.com/jvm-parameters
+https://www.baeldung.com/java-classloaders
+https://docs.oracle.com/javase/9/docs/api/java/lang/ref/PhantomReference.html#:~:text=Phantom%20reference%20objects%2C%20which%20are,an%20object%20is%20phantom%20reachable.
+https://docs.oracle.com/javase/8/docs/api/java/lang/ref/PhantomReference.html
+https://www.geeksforgeeks.org/types-references-java/
+https://stackoverflow.com/questions/46494112/classloaders-hierarchy-in-java-9
+https://docs.oracle.com/en/java/javase/18/docs/api/java.base/java/lang/ref/package-summary.html
+https://www.google.com/search?q=class+loading+in+java+9&rlz=1C5CHFA_enIN987IN987&tbm=isch&sxsrf=ALiCzsYwFZB3xQ2saOmA6aA1YyykETbsIg:1658837054497&source=lnms&sa=X&ved=2ahUKEwjkmf7KwZb5AhWoTGwGHW4yCbkQ_AUoA3oECAEQBQ&biw=1440&bih=629&dpr=1
+
+https://docs.oracle.com/javase/8/javase-books.htm
+https://www.jcp.org/en/jsr/overview
+https://openjdk.org/jeps/1
+
+
+
 https://www.google.com/search?q=spring+architecture&rlz=1C5CHFA_enIN987IN987&sxsrf=AOaemvJX6H4MXtq-njx68VfYQGvniybYng:1643013813932&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjowfW1_8n1AhX5zTgGHd51Aj0Q_AUoAXoECAEQAw#imgrc=gjjeGgQIfGElSM
 https://docs.spring.io/spring-framework/docs/4.3.x/spring-framework-reference/htmlsingle/#spring-introduction
 https://docs.spring.io/spring-framework/docs/4.3.x/spring-framework-reference/pdf/spring-framework-reference.pdf
