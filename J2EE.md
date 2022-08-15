@@ -1,0 +1,6 @@
+https://dzone.com/articles/resource-injection-vs
+https://thorben-janssen.com/jpa-persistence-xml/
+https://docs.wildfly.org/23/Extending_WildFly.html#WildFly_JNDI_Implementation
+http://jboss-modules.github.io/jboss-modules/manual/#visibility
+https://www.google.com/search?q=OSGI&rlz=1C5CHFA_enIN987IN987&sxsrf=ALiCzsZuxUfj2wzLjvJmT0k3-S_v-iGujQ%3A1659152913137&ei=EarkYoz9B4CiseMPwait2Ak&ved=0ahUKEwjMyY-g2p_5AhUAUWwGHUFUC5sQ4dUDCA4&uact=5&oq=OSGI&gs_lcp=Cgdnd3Mtd2l6EAMyCwgAEIAEELEDEIMBMgoIABCABBCHAhAUMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIKCAAQgAQQhwIQFDIFCAAQgAQyBQgAEIAEMgUIABCABDoHCAAQRxCwAzoECCMQJzoLCAAQsQMQgwEQkQI6CAgAEIAEELEDOgUIABCRAjoLCC4QxwEQrwEQkQJKBAhBGABKBAhGGABQiQZY4Q1gwBBoAnABeACAAeEBiAGtBZIBBTAuMy4xmAEAoAEByAEIwAEB&sclient=gws-wiz
+https://www.adam-bien.com/roller/abien/entry/java_ee_application_servers_are
